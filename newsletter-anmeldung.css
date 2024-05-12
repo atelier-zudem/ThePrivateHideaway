@@ -23,6 +23,10 @@
     --rg-validation-message-text-color: #FF0000;
 }
 
+.btn-primary {
+	background-color: grey;
+}
+
 :root {
 	--rg-primary-font-family:'Open Sans', sans-serif;
     --rg-primary-color: #293133;
